@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnAddProduct
+id btnDelete
+id btnSave
+id btnUpdate
+id editName
+id editPrice
+id editQuantity
+id listViewProducts
+layout activity_add_product
+layout activity_edit_product
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ProductAccountingApp
+style Theme.ProductAccountingApp
+xml backup_rules
+xml data_extraction_rules
